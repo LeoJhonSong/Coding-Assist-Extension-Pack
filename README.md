@@ -42,6 +42,10 @@ tricks:
 - [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) colorize different levels of brackets
   with different, delightful colors, which helps a lot to match the brackets by
   eyes 👀
+- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlenshttps://gitlens.amod.io/)
+  visualizing git flow
+- [changelog-snippets][https://marketplace.visualstudio.com/items?itemName=dzgmelody.vscode-changelog-snippets]
+- [Visual Studio Code Commitizen Support](https://marketplace.visualstudio.com/items?itemName=KnisterPeter.vscode-commitizen)
 
 ## Contribute
 
