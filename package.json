@@ -2,7 +2,7 @@
     "name": "coding-assist-extension-pack",
     "displayName": "Coding Assist Extension Pack",
     "description": "collection of extensions which help a lot when coding. Including bracket colorizing, spell checking, code rewraping, etc...",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "LeoJhonSong",
     "icon": "assist-logo.png",
     "repository": "https://github.com/LeoJhonSong/Coding-Assist-Extension-Pack",
