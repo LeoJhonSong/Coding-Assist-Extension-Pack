@@ -2,7 +2,7 @@
     "name": "coding-assist-extension-pack",
     "displayName": "Coding Assist Extension Pack",
     "description": "collection of extensions which help a lot when coding. Including bracket colorizing, spell checking, code rewraping, etc...",
-    "version": "0.1.1",
+    "version": "1.0.0",
     "publisher": "LeoJhonSong",
     "icon": "assist-logo.png",
     "repository": "https://github.com/LeoJhonSong/Coding-Assist-Extension-Pack",
@@ -13,7 +13,6 @@
         "Extension Packs"
     ],
     "extensionPack": [
-        "coenraads.bracket-pair-colorizer-2",
         "streetsidesoftware.code-spell-checker",
         "sirtori.indenticator",
         "ionutvmi.path-autocomplete",
@@ -21,6 +20,7 @@
         "shardulm94.trailing-spaces",
         "eamodio.gitlens",
         "dzgmelody.vscode-changelog-snippets",
-        "knisterpeter.vscode-commitizen"
+        "knisterpeter.vscode-commitizen",
+        "emilast.LogFileHighlighter"
     ]
 }

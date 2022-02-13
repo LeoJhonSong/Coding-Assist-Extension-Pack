@@ -5,9 +5,9 @@ would be glad if you are interested in this pack and just give a try! 👍
 
 ❗️❗️❗️ before installation I suggest you read lines with ⚠️ tags first, where some requirements are mentioned.
 
-1. [My tricks](#My-tricks)
-2. [This pack includes](#This-pack-includes)
-3. [Contribute](#Contribute)
+1. [My tricks](#my-tricks)
+2. [This pack includes](#this-pack-includes)
+3. [Contribute](#contribute)
 
 ## My tricks
 
@@ -39,12 +39,10 @@ tricks:
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) could be super powerful when
   writing comments, or, someone use complete words as variable names. It could
   also be essential when writing Markdown in VSC.
-- [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) colorize different levels of brackets
-  with different, delightful colors, which helps a lot to match the brackets by
   eyes 👀
-- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlenshttps://gitlens.amod.io/)
-  visualizing git flow
-- [changelog-snippets][https://marketplace.visualstudio.com/items?itemName=dzgmelody.vscode-changelog-snippets]
+- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) visualizing git flow.
+- [Log File Highlighter](https://marketplace.visualstudio.com/items?itemName=emilast.LogFileHighlighter) Adds color highlighting to log files to make it easier to follow the flow of log events and identify problems.
+- [changelog-snippets](https://marketplace.visualstudio.com/items?itemName=dzgmelody.vscode-changelog-snippets)
 - [Visual Studio Code Commitizen Support](https://marketplace.visualstudio.com/items?itemName=KnisterPeter.vscode-commitizen)
 
 ## Contribute

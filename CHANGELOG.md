@@ -1,6 +1,15 @@
 # Change Log
 
 
+## [1.0.0] - 2022-02-13
+
+### Added
+
+- Add Log File Highlighter
+
+### Removed
+
+- Remove Bracket Pair Colorizer 2 as it is included in VSCode now.
 ## [0.1.1] - 2019-09-12
 
 ### Fixed
