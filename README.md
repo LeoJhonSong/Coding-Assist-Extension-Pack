@@ -41,6 +41,7 @@ tricks:
   also be essential when writing Markdown in VSC.
   eyes 👀
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) visualizing git flow.
+- [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) a beautiful git graph viewer!
 - [Log File Highlighter](https://marketplace.visualstudio.com/items?itemName=emilast.LogFileHighlighter) Adds color highlighting to log files to make it easier to follow the flow of log events and identify problems.
 - [changelog-snippets](https://marketplace.visualstudio.com/items?itemName=dzgmelody.vscode-changelog-snippets)
 - [Visual Studio Code Commitizen Support](https://marketplace.visualstudio.com/items?itemName=KnisterPeter.vscode-commitizen)
