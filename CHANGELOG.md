@@ -1,6 +1,18 @@
 # Change Log
 
 
+## [2.0.0] - 2022-05-04
+
+### Added
+
+- Add Conventional Commits to substitute Visual Studio Code Commitizen Support.
+
+
+
+### Removed
+
+- Remove Visual Studio Code Commitizen Support since it dose not support multi git repo workspace well.
+
 ## [1.0.1] - 2022-03-25
 
 ### Added
@@ -17,6 +29,7 @@
 ### Removed
 
 - Remove Bracket Pair Colorizer 2 as it is included in VSCode now.
+
 ## [0.1.1] - 2019-09-12
 
 ### Fixed

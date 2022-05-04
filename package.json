@@ -1,8 +1,8 @@
 {
     "name": "coding-assist-extension-pack",
     "displayName": "Coding Assist Extension Pack",
-    "description": "collection of extensions which help a lot when coding. Including bracket colorizing, spell checking, code rewraping, etc...",
-    "version": "1.0.1",
+    "description": "collection of extensions which help a lot when coding. Including git tools, spell checking, code rewraping, etc...",
+    "version": "2.0.0",
     "publisher": "LeoJhonSong",
     "icon": "assist-logo.png",
     "repository": "https://github.com/LeoJhonSong/Coding-Assist-Extension-Pack",
@@ -21,7 +21,7 @@
         "eamodio.gitlens",
         "mhutchie.git-graph",
         "dzgmelody.vscode-changelog-snippets",
-        "knisterpeter.vscode-commitizen",
+        "vivaxy.vscode-conventional-commits",
         "emilast.LogFileHighlighter"
     ]
 }
